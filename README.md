@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Data Scientist | ML & Web Development Enthusiast<br><br>
-🔭 Building Machine Learning, Data Analysis & Web Development projects<br>
+💻 Aspiring Data Scientist | ML & Web Development Enthusiast<br><br>🔭 Building Machine Learning, Data Analysis & Web Development projects<br>
 🌱 Learning Machine Learning, SQL & improving DSA<br>
 ⚡ Solved 600+ DSA problems on LeetCode<br>
 🤝 Open to Data Science & Web Development collaborations
